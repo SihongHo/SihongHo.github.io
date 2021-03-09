@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Sihong He. I am a Ph.D student in CSE at School of Engineering, University of Connecticut working with Prof. Fei Miao. Before joining UConn, I obtained my Master's degree in Statistics from Donald Bren School of Information and Computer Sciences, University of California, Irvine in 2019 and my Bachelor's degree in Financial Mathematics at Department of Mathematics, Southern University of Science and Technology in 2017.
+Hi, my name is Sihong He. I am a 2nd-year Ph.D student in CSE at School of Engineering, University of Connecticut working with Prof. Fei Miao. Before joining UConn, I obtained my Master's degree in Statistics from Donald Bren School of Information and Computer Sciences, University of California, Irvine in 2019 and my Bachelor's degree in Financial Mathematics at Department of Mathematics, Southern University of Science and Technology in 2017.
 
 I am interested in Optimization, Robust Optimization, Reinforcement Learning, Smart City, Diversified Portfolios, etc. Wellcome to contact me if you are interested in having a cooperation.
 
