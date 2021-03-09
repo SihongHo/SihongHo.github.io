@@ -20,9 +20,13 @@ Education
 
 Publication
 ======
-**Robust Electric Vehicle Balancing under Demand and Supply Uncertainties Using Multi-Agent Deep Reinforcement Learning**  
+**Robust Multi-Agent Reinforcement Learning Under Training Partners' Policy Uncertainty**  
+Songyang Han, **Sihong He**, Zhili Zhang and Fei Miao  
+*IEEE International Conference on Intelligent Robots and Systems (IROS),2021. (Under Review)*
+
+**Robust Electric Vehicle Balancing under Demand and Supply Uncertainties Using Constrained Multi-Agent Reinforcement Learning**  
 **Sihong He** and Fei Miao  
-*IEEE International Conference on Robotics and Automation (ICRA),2021. (Under Review)*
+*IEEE International Conference on Intelligent Robots and Systems (IROS),2021. (Under Review)*
 
 **Data-Driven Distributionally Robust Electric Vehicle Balancing for Mobility-on-Demand Systems under Demand and Supply Uncertainties**  
 **Sihong He**, Lynn Pepin, Guang Wang, Desheng Zhang, and Fei Miao  
