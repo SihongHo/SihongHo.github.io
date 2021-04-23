@@ -14,7 +14,7 @@ picture: assets/images/anteater.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://scholar.google.com/citations?user=jLLDCeoAAAAJ&hl=en
 
 # url: https://sergiokopplin.github.io/indigo
 url: https://sihongho.github.io
@@ -51,7 +51,6 @@ github: sihongho
 # medium:
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-googlescholar: https://scholar.google.com/citations?user=jLLDCeoAAAAJ&hl=en
 email: sihong.he@uconn.edu
 
 authors:
