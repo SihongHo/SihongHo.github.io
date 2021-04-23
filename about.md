@@ -1,8 +1,8 @@
 <!--
  * @Author: your name
  * @Date: 2021-04-23 11:43:29
- * @LastEditTime: 2021-04-23 12:14:11
- * @LastEditors: your name
+ * @LastEditTime: 2021-04-23 12:19:07
+ * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /sihongho.github.io/about.md
 -->
@@ -16,23 +16,33 @@ layout: page
 
 <p>I am interested in Optimization, Robust Optimization, Reinforcement Learning, Smart City, Diversified Portfolios, etc. Wellcome to contact me if you are interested in having a cooperation.</p>
 
-<h2>Education</h2>
+Education
+======
+* Ph.D Student in Computer Science, University of Connecticut, 2024 (expect)
+* M.S. in Statistics, University of California, Irvine, 2019
+* B.S. in Financial Mathematics, Southern University of Science and Technology, 2017
 
-<ul class="skill-list">
-	<li>Ph.D Student in Computer Science, University of Connecticut, 2024 (expect)</li>
-	<li>M.S. in Statistics, University of California, Irvine, 2019</li>
-	<li>B.S. in Financial Mathematics, Southern University of Science and Technology, 2017</li>
-</ul>
+Publication
+======
+**Robust Multi-Agent Reinforcement Learning Under Training Partners' Policy Uncertainty**  
+Songyang Han, **Sihong He**, Zhili Zhang and Fei Miao  
+*IEEE International Conference on Intelligent Robots and Systems (IROS),2021. (Under Review)*
 
-<h2>Publication</h2>
+**Robust Electric Vehicle Balancing under Demand and Supply Uncertainties Using Constrained Multi-Agent Reinforcement Learning**  
+**Sihong He** and Fei Miao  
+*IEEE International Conference on Intelligent Robots and Systems (IROS),2021. (Under Review)*
 
-<ul class="skill-list">
-	<li>He, Sihong, Lynn Pepin, Guang Wang, Desheng Zhang, and Fei Miao. "Data-Driven Distributionally Robust Electric Vehicle Balancing for Mobility-on-Demand Systems under Demand and Supply Uncertainties." In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2165-2172. IEEE, 2020.</li>
-	<li>Fei Miao, Sihong He, Lynn Pepin, Shuo Han, Abdeltawab Hendawi, Mohamed E Khalefa, John A. Stankovic, and George Pappas. 2021. Data-driven Distributionally Robust Optimization For Vehicle Balancing of Mobility-on-Demand Systems. ACM Trans. Cyber-Phys. Syst. 5, 2, Article 17 (January 2021), 27 pages. DOI:https://doi.org/10.1145/3418287</li>
-</ul>
+**Data-Driven Distributionally Robust Electric Vehicle Balancing for Mobility-on-Demand Systems under Demand and Supply Uncertainties**  
+**Sihong He**, Lynn Pepin, Guang Wang, Desheng Zhang, and Fei Miao  
+*IEEE International Conference on Intelligent Robots and Systems (IROS),2020.*
 
-<h2>Work Experience</h2>
 
+**Data-Driven Distributionally Robust Vehicle Balancing for Mobility on Demand Systems**  
+Fei Miao, **Sihong He**, Lynn Pepin, Shuo Han, Abdeltawab M. Hendawi, Mohamed E. Khalefa, John A. Stankovic, and George J. Pappas.  
+*Accepted, ACM Transactions on Cyber-Physical Systems (TCPS), 2020.*
+
+Work Experience
+======
 * 2019 - Present: Research Assistant
   * University of Connecticut
 
@@ -44,3 +54,17 @@ layout: page
   
 * Fall 2017: Teaching Assistant
   * Southern University of Science and Technology
+
+Honors
+======
+* 2020: GE Advanced Manufacturing Fellowship, Cigna Graduate Scholarship
+* 2019: Cigna Graduate Scholarship
+* 2017: Outstanding Student Award 
+* 2016: Startup Scholarship, Sunshine Fellowship
+* 2015: Startup Scholarship, Student Research Grant from Guangdong Province
+* 2014: Government Scholarship, Yunlong Fellowship
+* 2013: Freshman Scholarship
+
+Service
+======
+* 2020: Member of Diversity Communications Advisory Group for School of Engineering, University of Connecticut
