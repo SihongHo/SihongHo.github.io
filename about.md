@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-04-23 11:43:29
- * @LastEditTime: 2021-04-23 12:19:07
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /sihongho.github.io/about.md
--->
 ---
 title: About
 layout: page
