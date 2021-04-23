@@ -1,46 +1,46 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-04-23 11:43:29
+ * @LastEditTime: 2021-04-23 12:14:11
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: /sihongho.github.io/about.md
+-->
 ---
 title: About
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, my name is Sihong He. I am a 2nd-year Ph.D student in CSE at School of Engineering, University of Connecticut working with Prof. Fei Miao.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am interested in Optimization, Robust Optimization, Reinforcement Learning, Smart City, Diversified Portfolios, etc. Wellcome to contact me if you are interested in having a cooperation.</p>
 
-<h2>Skills</h2>
+<h2>Education</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Ph.D Student in Computer Science, University of Connecticut, 2024 (expect)</li>
+	<li>M.S. in Statistics, University of California, Irvine, 2019</li>
+	<li>B.S. in Financial Mathematics, Southern University of Science and Technology, 2017</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Publication</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="skill-list">
+	<li>He, Sihong, Lynn Pepin, Guang Wang, Desheng Zhang, and Fei Miao. "Data-Driven Distributionally Robust Electric Vehicle Balancing for Mobility-on-Demand Systems under Demand and Supply Uncertainties." In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pp. 2165-2172. IEEE, 2020.</li>
+	<li>Fei Miao, Sihong He, Lynn Pepin, Shuo Han, Abdeltawab Hendawi, Mohamed E Khalefa, John A. Stankovic, and George Pappas. 2021. Data-driven Distributionally Robust Optimization For Vehicle Balancing of Mobility-on-Demand Systems. ACM Trans. Cyber-Phys. Syst. 5, 2, Article 17 (January 2021), 27 pages. DOI:https://doi.org/10.1145/3418287</li>
 </ul>
+
+<h2>Work Experience</h2>
+
+* 2019 - Present: Research Assistant
+  * University of Connecticut
+
+* 2018 - 2019: Teaching Assistant
+  * University of California, Irvine
+
+* Summer 2018: Data Scientist Intern
+  * Big Data Center, Sunshine Insurance Group
+  
+* Fall 2017: Teaching Assistant
+  * Southern University of Science and Technology
