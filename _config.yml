@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 # url: https://sergiokopplin.github.io/indigo
-url: https://sihongho.github.io/sihongho.github.io
+url: https://sihongho.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
