@@ -56,17 +56,17 @@ email: sihong.he@uconn.edu
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Sihong He
+    bio: PhD student at UConn
     external-image: false
     picture: assets/images/anteater.jpg
-    twitter: johndoe
+    # twitter: johndoe
   jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    name: Sihong He
+    bio: PhD student at UConn
     external-image: false
     picture: assets/images/anteater.jpg
-    twitter: jamesfoster
+    # twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
