@@ -59,4 +59,6 @@ Fei Miao, **Sihong He**, Lynn Pepin, Shuo Han, Abdeltawab M. Hendawi, Mohamed E.
 
 <h2>Service</h2>
 
+* 2021: Reviewer of The 60th Conference on Decision and Control (CDC 2021)
 * 2020: Member of Diversity Communications Advisory Group for School of Engineering, University of Connecticut
+* 2020: Reviewer of Transactions on Knowledge and Data Engineering (TKDE)
