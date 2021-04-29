@@ -26,7 +26,7 @@ Songyang Han, **Sihong He**, Zhili Zhang and Fei Miao
 
 **Data-Driven Distributionally Robust Vehicle Balancing for Mobility on Demand Systems**  
 Fei Miao, **Sihong He**, Lynn Pepin, Shuo Han, Abdeltawab M. Hendawi, Mohamed E. Khalefa, John A. Stankovic, and George J. Pappas.  
-*ACM Transactions on Cyber-Physical Systems (TCPS), 2021.*
+*ACM Transactions on Cyber-Physical Systems (TCPS),2021.*
 
 **Data-Driven Distributionally Robust Electric Vehicle Balancing for Mobility-on-Demand Systems under Demand and Supply Uncertainties**  
 **Sihong He**, Lynn Pepin, Guang Wang, Desheng Zhang, and Fei Miao  
