@@ -43,7 +43,7 @@ Fei Miao, **Sihong He**, Lynn Pepin, Shuo Han, Abdeltawab M. Hendawi, Mohamed E.
 * Summer 2018: Data Scientist Intern
   * Big Data Center, Sunshine Insurance Group
   
-* Fall 2017: Teaching Assistant
+* Fall 2016: Teaching Assistant
   * Southern University of Science and Technology
 
 <h2>Honors</h2>
