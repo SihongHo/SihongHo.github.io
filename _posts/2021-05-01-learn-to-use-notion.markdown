@@ -1,11 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2021-04-23 11:43:29
- * @LastEditTime: 2021-05-02 02:49:28
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /sihongho.github.io/_posts/2021-05-01-learn-to-use-notion.markdown
--->
 ---
 title: "Learn to use Notion"
 layout: post
@@ -18,7 +10,8 @@ hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
 author: Sihong
-externalLink: https://www.notion.so/Getting-Started-ba9ba90d9838455a9829c38fdc5cd756
+externalLink: false
+# https://www.notion.so/Getting-Started-ba9ba90d9838455a9829c38fdc5cd756
 ---
 # Getting Started
 
