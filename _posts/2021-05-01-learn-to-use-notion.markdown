@@ -10,8 +10,7 @@ hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
 author: Sihong
-externalLink: false
-# https://www.notion.so/Getting-Started-ba9ba90d9838455a9829c38fdc5cd756
+externalLink: https://www.notion.so/Getting-Started-ba9ba90d9838455a9829c38fdc5cd756
 ---
 # Getting Started
 
