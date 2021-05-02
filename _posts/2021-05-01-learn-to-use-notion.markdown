@@ -11,7 +11,7 @@ description: "Learn how to use notion"
 category: project
 author: Sihong
 externalLink: false
-<!-- https://www.notion.so/Getting-Started-ba9ba90d9838455a9829c38fdc5cd756 -->
+# <!-- https://www.notion.so/Getting-Started-ba9ba90d9838455a9829c38fdc5cd756 -->
 ---
 
 # CSE 5830: Project Progression Report
