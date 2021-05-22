@@ -16,6 +16,10 @@ layout: page
 
 <h2>Publication</h2>
 
+**Data-Driven Distributionally Robust Electric Vehicle Balancing for Autonomous Mobility-on-Demand Systems under Demand and Supply Uncertainties**  
+**Sihong He**, Zhili Zhang, Lynn Pepin, Guang Wang, Desheng Zhang, and Fei Miao  
+*IEEE Transactions on Automatic Control (TAC),2021. (Under Review)*
+
 **Robust Multi-Agent Reinforcement Learning Under Training Partners' Policy Uncertainty**  
 Songyang Han, **Sihong He**, Zhili Zhang and Fei Miao  
 *IEEE International Conference on Intelligent Robots and Systems (IROS),2021. (Under Review)*
