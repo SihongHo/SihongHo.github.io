@@ -51,7 +51,7 @@ Fei Miao, **Sihong He**, Lynn Pepin, Shuo Han, Abdeltawab M. Hendawi, Mohamed E.
   * Southern University of Science and Technology
 
 <h2>Honors</h2>
-* 2021: Invited Presentation on the 2021 CPS PI Meeting
+* 2021: Selected Student Presentation at the 2021 NSF Cyber-Physical Systems Principal Investigators' Meeting
 * 2020: GE Advanced Manufacturing Fellowship, Cigna Graduate Scholarship
 * 2019: Cigna Graduate Scholarship
 * 2017: Outstanding Student Award 
